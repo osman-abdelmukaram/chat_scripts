@@ -12,7 +12,7 @@ RED = "\033[91m"
 BLUE = '\033[94m'
 RESET_COLOR = "\033[0m" 
 
-#IP_AND_PORT = "3.121.226.198", 5382
+#IP_AND_PORT = "0.000.000.000", 5382
 BUFFER_SIZE = 2000
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
