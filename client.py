@@ -8,8 +8,8 @@ YELLOW = "\033[93m"
 RED = "\033[91m" 
 RESET_COLOR = "\033[0m" 
 
-#IP_AND_PORT = socket.socket(socket.AF_INET, socket.SOCK_STREAM), 7000
-LOCAL_IP_AND_PORT = "127.0.0.1", 7000
+#local IP addr., port 7000
+IP_AND_PORT = socket.socket(socket.AF_INET, socket.SOCK_STREAM), 7000
 BUFFER_SIZE = 4096
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
