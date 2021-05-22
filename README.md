@@ -1,1 +1,2 @@
-# chat_for_unreliable_network
+# chat_scripts_python
+
